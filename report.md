@@ -10,6 +10,6 @@
 
 ## Результаты
 
-1. 100% не успешных тестов
+https://github.com/lenokst/Precision/issues/1
 
 
